@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on everything<br>👯 I’m looking to collaborate on nothing<br>🤝 I’m looking for help with me<br>🌱 I’m currently learning everything and nothing<br>💬 Ask me about stuff<br>⚡ Fun fact, Hi
+🔭 I’m currently working on everything<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lexinor&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
